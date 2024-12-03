@@ -1,6 +1,7 @@
 # 💫 About Me:
-¡Hey 👋! Soy Dani<br>Desarrollador de +1 año de experiencia en la creación de aplicaciones web y diseño responsivo.<br>Especializado en tecnologías Big Data.  Poseo una formación técnicas en Seguridad Informática con enfoque en Pentesting y Generación de Informes.<br>También ingeniero en proceso 1/4💪 Loading...<br>
+¡Hey 👋! Soy Dani<br>Desarrollador de +1 año de experiencia en la creación de aplicaciones web.<br>Especializado en tecnologías Big Data.<br>También ingeniero en proceso💪 Loading...<br>
 Después de tantos andares en la vida he descubierto algo que siempre supe en todo este tiempo: Que siempre me ha apasionado la tecnología y la programación.
+
 
 
 # 💻 Tech Stack:
