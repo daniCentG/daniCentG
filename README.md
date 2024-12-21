@@ -1,6 +1,6 @@
 # 💫 About Me:
 ¡Hey 👋! Soy Dani<br>Desarrollador de Aplicaciones Web.<br>
-Después de tantos andares en la vida he descubierto algo que siempre supe en todo este tiempo: Que siempre me ha apasionado la tecnología y la programación 🚀.(Y que la pizza de se como con aceitunas y masa fina).<br>
+Después de tantos andares en la vida he descubierto algo que siempre supe en todo este tiempo: Que siempre me ha apasionado la tecnología y la programación 🚀.(Y que la pizza se come con aceitunas y masa fina).<br>
 
 Pienso que con el compromiso en la labor profesional se puede hacer grandes cosas. Me apasionar programar y crear aplicaciones que no solo cumplan las espectativas sino también en crear una experiencia excepcional para el usuario. 
 
