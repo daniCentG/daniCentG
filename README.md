@@ -2,7 +2,7 @@
 ¡Hey 👋! Soy Dani<br>Analista en Ciberseguridad - Big Data.<br>
 Después de tantos andares en la vida he descubierto algo que siempre supe en todo este tiempo: Que siempre me ha apasionado la tecnología y la programación 🚀.(Y que la pizza se come con aceitunas y masa fina).<br>
 
-Pienso que con el compromiso en la labor profesional se puede hacer grandes cosas. Me apasiona programar, crear y todo lo que tenga que ver con Seguridad de la Información.
+Pienso que con el compromiso en la labor profesional se puede hacer grandes cosas. Me apasiona programar, crear y todo lo que tenga que ver con la Seguridad de la Información.
 
 
 # 💻 Tech Stack:
