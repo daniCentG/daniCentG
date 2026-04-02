@@ -1,8 +1,8 @@
 # 💫 About Me:
-¡Hey 👋! Soy Dani<br>Analista en Ciberseguridad - Big Data.<br>
-Después de tantos andares en la vida he descubierto algo que siempre supe en todo este tiempo: Que siempre me ha apasionado la tecnología y la programación 🚀.(Y que la pizza se come sin cubiertos y masa fina).<br>
+¡Hey 👋! Soy Dani<br>Desarrollo de Software y Seguridad en aplicaciones.<br>
+Después de tantos andares en la vida he descubierto algo que en el fondo siempre supe: Que siempre me ha apasionado la tecnología 🚀.(Y que la pizza se come sin cubiertos y masa fina).<br>
 
-Pienso que con el compromiso en la labor profesional se puede hacer grandes cosas. Me apasiona programar, crear y todo lo que tenga que ver con la Seguridad de la Información.
+Pienso que con el compromiso en la labor profesional se puede hacer grandes cosas. Me apasiona crear soluciones y todo lo que tenga que ver con la Seguridad de la Información.
 
 
 # 💻 Tech Stack:
